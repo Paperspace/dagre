@@ -13,7 +13,7 @@
     "layout"
   ],
   "dependencies": {
-    "graphlib": "^2.1.8",
+    "graphlib": "git+ssh://git@github.com:weeksie/graphlib.git",
     "lodash": "^4.17.19"
   },
   "devDependencies": {
